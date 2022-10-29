@@ -1,0 +1,72 @@
+* {
+    margin: 0 ;
+    padding: 0 ;
+}
+
+body {
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 38%);
+}
+
+.card {
+    width: 400px !important;
+    display: initial !important;
+}
+
+.card-wrapper {
+    display: flex;
+}
+
+.task-status-block {
+    
+}
+
+.task-status-text {
+    font-size: 18px;
+}
+
+.description-block {
+    margin-left: 10px;
+}
+
+.task-bottom-block {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+
+.task-card {
+    border: 2px red solid;
+}
+
+.task-whitespace {
+    height: 30px;
+}
+
+
+
+
+
+
+/*  boostrap changes*/
+.row {
+    padding: 0  !important;
+    margin: 0  !important;
+}
+
+.cardtitle {
+    font-size: 322px !important;
+    border: 1px black solid !important;
+}
+
+h3 {
+    display: inline ;
+}
+
+.card {
+    border: 1px black solid !important;
+}
+
+.card-body {
+    border: 1px black solid !important;
+}

@@ -1,0 +1,39 @@
+body {
+    /*
+    background-color: #7DA2A9;
+    background-color: lightblue;
+    */
+    background-color: #8ca7ad;
+    
+    margin: 0 auto;
+    width: 90rem;
+}
+
+.large-title {
+    font-size: 40px;
+}
+
+.genre-container {
+    display: inline-block;
+    border-radius: 10%;
+}
+
+.genre-container a {
+    font-size: 34px;
+    width: 200px;
+    margin: 5px 10px;
+}
+
+.song-card {
+    width: 20rem;
+    display: inline-block;
+    margin: 2px;
+}
+
+.whitespace {
+    height: 100px;
+}
+
+.card-body a {
+    color: black;
+}
